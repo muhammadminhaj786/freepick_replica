@@ -1,0 +1,35 @@
+.wrap{
+    display: flex;
+    
+}
+.ul1{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    align-items: center;
+}
+.ul2{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin-left: 30%;
+    align-items: center;
+}
+li{
+    color: white;
+    font-size: 1vw;
+    
+}
+.first_box{
+    background-color: #2596be;
+
+}
+.b1{
+    height: 25px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #2596be;
+    color: white;
+    width: 80px;
+    margin: 10px 10px;
+}
