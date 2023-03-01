@@ -21,15 +21,131 @@ li{
     
 }
 .first_box{
-    background-color: #2596be;
+    background-color: blue;
+    height: 570px;
+    width: 100%;
 
 }
 .b1{
-    height: 25px;
+    height: 30px;
     border: 1px solid white;
     border-radius: 5px;
-    background-color: #2596be;
+    background-color: blue;
     color: white;
     width: 80px;
-    margin: 10px 10px;
+    margin: 15px 15px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+    
+}
+.b2{
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+    width: 110px;
+    display: flex;
+    font-size: 1vw;
+    padding: 5px;
+    
+}
+.ctn{
+
+}
+.heading1{
+    color: white;
+    font-size: 2.5vw;
+    text-align: center;
+    margin-top: 20px;
+}
+.heading2{
+    color: white;
+    font-size: 1.5vw;
+    text-align: center;
+    margin: 5px 0px;
+}
+.input1{
+    height: 50px;
+    width: 53%;
+    margin-left: 24%;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.cards{
+    margin: 80px 0px;
+    height: 225px;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    gap: 20px;
+    padding-left: 40px;
+}
+.c1{
+    height: 100px;
+    width: 10%;
+    border-radius: 50%;
+}
+.c1 img{
+    height: 120%;
+    width: 100%;
+    border-radius: 50%;
+}
+.p1{
+    color: white;
+    margin-left: 41px;
+    margin-top: 10px;
+}
+.second-box{
+    height:80px;
+    width: 100%;
+    background-color: rgb(37, 150, 190);
+    font-size: 1.4vw;
+    margin-top: 10px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+.heading4{
+    font-size: 1.8vw;
+}
+.b4{
+    height: 45px;
+    width: 165px;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+.third-box{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+    margin-top: 60px;
+}
+.heading5{
+    color: grey;
+    font-size: 1.4vw;
+    text-align: center;
+    margin-top: 10px;
+}
+.third-box span{
+    color: blue;
+
+}
+.h6{
+    font-size: 2.3vw;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+.container1{
+    border: 1px solid black;
 }
